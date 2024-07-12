@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\MDD4All.Bitbucket.DataModels\src\MDD4All.Bitbucket.DataModels\MDD4All.Bitbucket.DataModels-dev.csproj" />
+    <ProjectReference Include="..\..\..\MDD4All.DevOpsObserver.DataModels\src\MDD4All.DevOpsObserver.DataModels\MDD4All.DevOpsObserver.DataModels-dev.csproj" />
+  </ItemGroup>
+
+</Project>
